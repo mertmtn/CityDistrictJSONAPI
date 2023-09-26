@@ -4,8 +4,8 @@ This repository created all city and its districts of Türkiye as JSON format.
 
 ## Installation
 
-It published Github Pages like an API 
-https://mertmtn.github.io/CityDistrictJSONAPI/city-district.json
+It published Github Pages like an API
+[https://mertmtn.github.io/CityDistrictJSONAPI/city-district.json](https://mertmtn.github.io/CityDistrictJSONAPI/city-district.json)
 
 ## Usage
 
