@@ -3,6 +3,7 @@
   "totalDistrictCount": 922,
   "city": [
     {
+      "plateCode": 1,
       "name": "ADANA",
       "discritCount": 15,
       "discrits": [
@@ -24,6 +25,7 @@
       ]
     },
     {
+      "plateCode": 2,
       "name": "ADIYAMAN",
       "discritCount": 8,
       "discrits": [
@@ -38,6 +40,7 @@
       ]
     },
     {
+      "plateCode": 3,
       "name": "AFYONKARAHİSAR",
       "discritCount": 17,
       "discrits": [
@@ -61,6 +64,7 @@
       ]
     },
     {
+      "plateCode": 4,
       "name": "AĞRI",
       "discritCount": 7,
       "discrits": [
@@ -74,6 +78,7 @@
       ]
     },
     {
+      "plateCode": 5,
       "name": "AMASYA",
       "discritCount": 6,
       "discrits": [
@@ -86,6 +91,7 @@
       ]
     },
     {
+      "plateCode": 6,
       "name": "ANKARA",
       "discritCount": 25,
       "discrits": [
@@ -117,6 +123,7 @@
       ]
     },
     {
+      "plateCode": 7,
       "name": "ANTALYA",
       "discritCount": 19,
       "discrits": [
@@ -142,6 +149,7 @@
       ]
     },
     {
+      "plateCode": 8,
       "name": "ARTVİN",
       "discritCount": 8,
       "discrits": [
@@ -156,6 +164,7 @@
       ]
     },
     {
+      "plateCode": 9,
       "name": "AYDIN",
       "discritCount": 17,
       "discrits": [
@@ -179,6 +188,7 @@
       ]
     },
     {
+      "plateCode": 10,
       "name": "BALIKESİR",
       "discritCount": 20,
       "discrits": [
@@ -205,6 +215,7 @@
       ]
     },
     {
+      "plateCode": 11,
       "name": "BİLECİK",
       "discritCount": 7,
       "discrits": [
@@ -218,6 +229,7 @@
       ]
     },
     {
+      "plateCode": 12,
       "name": "BİNGÖL",
       "discritCount": 7,
       "discrits": [
@@ -231,6 +243,7 @@
       ]
     },
     {
+      "plateCode": 13,
       "name": "BİTLİS",
       "discritCount": 6,
       "discrits": [
@@ -243,6 +256,7 @@
       ]
     },
     {
+      "plateCode": 14,
       "name": "BOLU",
       "discritCount": 8,
       "discrits": [
@@ -257,6 +271,7 @@
       ]
     },
     {
+      "plateCode": 15,
       "name": "BURDUR",
       "discritCount": 10,
       "discrits": [
@@ -273,6 +288,7 @@
       ]
     },
     {
+      "plateCode": 16,
       "name": "BURSA",
       "discritCount": 17,
       "discrits": [
@@ -296,6 +312,7 @@
       ]
     },
     {
+      "plateCode": 17,
       "name": "ÇANAKKALE",
       "discritCount": 11,
       "discrits": [
@@ -313,6 +330,7 @@
       ]
     },
     {
+      "plateCode": 18,
       "name": "ÇANKIRI",
       "discritCount": 11,
       "discrits": [
@@ -330,6 +348,7 @@
       ]
     },
     {
+      "plateCode": 19,
       "name": "ÇORUM",
       "discritCount": 13,
       "discrits": [
@@ -349,6 +368,7 @@
       ]
     },
     {
+      "plateCode": 20,
       "name": "DENİZLİ",
       "discritCount": 19,
       "discrits": [
@@ -374,6 +394,7 @@
       ]
     },
     {
+      "plateCode": 21,
       "name": "DİYARBAKIR",
       "discritCount": 17,
       "discrits": [
@@ -397,6 +418,7 @@
       ]
     },
     {
+      "plateCode": 22,
       "name": "EDİRNE",
       "discritCount": 8,
       "discrits": [
@@ -411,6 +433,7 @@
       ]
     },
     {
+      "plateCode": 23,
       "name": "ELAZIĞ",
       "discritCount": 10,
       "discrits": [
@@ -427,6 +450,7 @@
       ]
     },
     {
+      "plateCode": 24,
       "name": "ERZİNCAN",
       "discritCount": 8,
       "discrits": [
@@ -441,6 +465,7 @@
       ]
     },
     {
+      "plateCode": 25,
       "name": "ERZURUM",
       "discritCount": 20,
       "discrits": [
@@ -467,6 +492,7 @@
       ]
     },
     {
+      "plateCode": 26,
       "name": "ESKİŞEHİR",
       "discritCount": 14,
       "discrits": [
@@ -487,6 +513,7 @@
       ]
     },
     {
+      "plateCode": 27,
       "name": "GAZİANTEP",
       "discritCount": 9,
       "discrits": [
@@ -502,6 +529,7 @@
       ]
     },
     {
+      "plateCode": 28,
       "name": "GİRESUN",
       "discritCount": 15,
       "discrits": [
@@ -523,6 +551,7 @@
       ]
     },
     {
+      "plateCode": 29,
       "name": "GÜMÜŞHANE",
       "discritCount": 5,
       "discrits": [
@@ -534,6 +563,7 @@
       ]
     },
     {
+      "plateCode": 30,
       "name": "HAKKARİ",
       "discritCount": 4,
       "discrits": [
@@ -544,6 +574,7 @@
       ]
     },
     {
+      "plateCode": 31,
       "name": "HATAY",
       "discritCount": 15,
       "discrits": [
@@ -565,6 +596,7 @@
       ]
     },
     {
+      "plateCode": 32,
       "name": "ISPARTA",
       "discritCount": 12,
       "discrits": [
@@ -583,6 +615,7 @@
       ]
     },
     {
+      "plateCode": 33,
       "name": "MERSİN",
       "discritCount": 13,
       "discrits": [
@@ -602,6 +635,7 @@
       ]
     },
     {
+      "plateCode": 34,
       "name": "İSTANBUL",
       "discritCount": 39,
       "discrits": [
@@ -647,6 +681,7 @@
       ]
     },
     {
+      "plateCode": 35,
       "name": "İZMİR",
       "discritCount": 30,
       "discrits": [
@@ -683,6 +718,7 @@
       ]
     },
     {
+      "plateCode": 36,
       "name": "KARS",
       "discritCount": 7,
       "discrits": [
@@ -696,6 +732,7 @@
       ]
     },
     {
+      "plateCode": 37,
       "name": "KASTAMONU",
       "discritCount": 19,
       "discrits": [
@@ -721,6 +758,7 @@
       ]
     },
     {
+      "plateCode": 38,
       "name": "KAYSERİ",
       "discritCount": 16,
       "discrits": [
@@ -743,6 +781,7 @@
       ]
     },
     {
+      "plateCode": 39,
       "name": "KIRKLARELİ",
       "discritCount": 7,
       "discrits": [
@@ -756,6 +795,7 @@
       ]
     },
     {
+      "plateCode": 40,
       "name": "KIRŞEHİR",
       "discritCount": 6,
       "discrits": [
@@ -768,6 +808,7 @@
       ]
     },
     {
+      "plateCode": 41,
       "name": "KOCAELİ",
       "discritCount": 12,
       "discrits": [
@@ -786,6 +827,7 @@
       ]
     },
     {
+      "plateCode": 42,
       "name": "KONYA",
       "discritCount": 31,
       "discrits": [
@@ -823,6 +865,7 @@
       ]
     },
     {
+      "plateCode": 43,
       "name": "KÜTAHYA",
       "discritCount": 12,
       "discrits": [
@@ -841,6 +884,7 @@
       ]
     },
     {
+      "plateCode": 44,
       "name": "MALATYA",
       "discritCount": 13,
       "discrits": [
@@ -860,6 +904,7 @@
       ]
     },
     {
+      "plateCode": 45,
       "name": "MANİSA",
       "discritCount": 17,
       "discrits": [
@@ -883,6 +928,7 @@
       ]
     },
     {
+      "plateCode": 46,
       "name": "KAHRAMANMARAŞ",
       "discritCount": 11,
       "discrits": [
@@ -900,6 +946,7 @@
       ]
     },
     {
+      "plateCode": 47,
       "name": "MARDİN",
       "discritCount": 10,
       "discrits": [
@@ -916,6 +963,7 @@
       ]
     },
     {
+      "plateCode": 48,
       "name": "MUĞLA",
       "discritCount": 13,
       "discrits": [
@@ -935,6 +983,7 @@
       ]
     },
     {
+      "plateCode": 49,
       "name": "MUŞ",
       "discritCount": 5,
       "discrits": [
@@ -946,6 +995,7 @@
       ]
     },
     {
+      "plateCode": 50,
       "name": "NEVŞEHİR",
       "discritCount": 7,
       "discrits": [
@@ -959,6 +1009,7 @@
       ]
     },
     {
+      "plateCode": 51,
       "name": "NİĞDE",
       "discritCount": 5,
       "discrits": [
@@ -970,6 +1021,7 @@
       ]
     },
     {
+      "plateCode": 52,
       "name": "ORDU",
       "discritCount": 19,
       "discrits": [
@@ -995,6 +1047,7 @@
       ]
     },
     {
+      "plateCode": 53,
       "name": "RİZE",
       "discritCount": 11,
       "discrits": [
@@ -1012,6 +1065,7 @@
       ]
     },
     {
+      "plateCode": 54,
       "name": "SAKARYA",
       "discritCount": 16,
       "discrits": [
@@ -1034,6 +1088,7 @@
       ]
     },
     {
+      "plateCode": 55,
       "name": "SAMSUN",
       "discritCount": 17,
       "discrits": [
@@ -1057,6 +1112,7 @@
       ]
     },
     {
+      "plateCode": 56,
       "name": "SİİRT",
       "discritCount": 6,
       "discrits": [
@@ -1069,6 +1125,7 @@
       ]
     },
     {
+      "plateCode": 57,
       "name": "SİNOP",
       "discritCount": 8,
       "discrits": [
@@ -1083,6 +1140,7 @@
       ]
     },
     {
+      "plateCode": 58,
       "name": "SİVAS",
       "discritCount": 16,
       "discrits": [
@@ -1105,6 +1163,7 @@
       ]
     },
     {
+      "plateCode": 59,
       "name": "TEKİRDAĞ",
       "discritCount": 11,
       "discrits": [
@@ -1122,6 +1181,7 @@
       ]
     },
     {
+      "plateCode": 60,
       "name": "TOKAT",
       "discritCount": 11,
       "discrits": [
@@ -1139,6 +1199,7 @@
       ]
     },
     {
+      "plateCode": 61,
       "name": "TRABZON",
       "discritCount": 18,
       "discrits": [
@@ -1163,6 +1224,7 @@
       ]
     },
     {
+      "plateCode": 62,
       "name": "TUNCELİ",
       "discritCount": 7,
       "discrits": [
@@ -1176,6 +1238,7 @@
       ]
     },
     {
+      "plateCode": 63,
       "name": "ŞANLIURFA",
       "discritCount": 13,
       "discrits": [
@@ -1195,6 +1258,7 @@
       ]
     },
     {
+      "plateCode": 64,
       "name": "UŞAK",
       "discritCount": 5,
       "discrits": [
@@ -1206,6 +1270,7 @@
       ]
     },
     {
+      "plateCode": 65,
       "name": "VAN",
       "discritCount": 13,
       "discrits": [
@@ -1225,6 +1290,7 @@
       ]
     },
     {
+      "plateCode": 66,
       "name": "YOZGAT",
       "discritCount": 13,
       "discrits": [
@@ -1244,6 +1310,7 @@
       ]
     },
     {
+      "plateCode": 67,
       "name": "ZONGULDAK",
       "discritCount": 7,
       "discrits": [
@@ -1257,6 +1324,7 @@
       ]
     },
     {
+      "plateCode": 68,
       "name": "AKSARAY",
       "discritCount": 7,
       "discrits": [
@@ -1270,6 +1338,7 @@
       ]
     },
     {
+      "plateCode": 69,
       "name": "BAYBURT",
       "discritCount": 2,
       "discrits": [
@@ -1278,6 +1347,7 @@
       ]
     },
     {
+      "plateCode": 70,
       "name": "KARAMAN",
       "discritCount": 5,
       "discrits": [
@@ -1289,6 +1359,7 @@
       ]
     },
     {
+      "plateCode": 71,
       "name": "KIRIKKALE",
       "discritCount": 8,
       "discrits": [
@@ -1303,6 +1374,7 @@
       ]
     },
     {
+      "plateCode": 72,
       "name": "BATMAN",
       "discritCount": 5,
       "discrits": [
@@ -1314,6 +1386,7 @@
       ]
     },
     {
+      "plateCode": 73,
       "name": "ŞIRNAK",
       "discritCount": 6,
       "discrits": [
@@ -1326,6 +1399,7 @@
       ]
     },
     {
+      "plateCode": 74,
       "name": "BARTIN",
       "discritCount": 3,
       "discrits": [
@@ -1335,6 +1409,7 @@
       ]
     },
     {
+      "plateCode": 75,
       "name": "ARDAHAN",
       "discritCount": 5,
       "discrits": [
@@ -1346,6 +1421,7 @@
       ]
     },
     {
+      "plateCode": 76,
       "name": "IĞDIR",
       "discritCount": 3,
       "discrits": [
@@ -1355,6 +1431,7 @@
       ]
     },
     {
+      "plateCode": 77,
       "name": "YALOVA",
       "discritCount": 5,
       "discrits": [
@@ -1366,6 +1443,7 @@
       ]
     },
     {
+      "plateCode": 78,
       "name": "KARABÜK",
       "discritCount": 6,
       "discrits": [
@@ -1377,6 +1455,7 @@
       ]
     },
     {
+      "plateCode": 79,
       "name": "KİLİS",
       "discritCount": 3,
       "discrits": [
@@ -1386,6 +1465,7 @@
       ]
     },
     {
+      "plateCode": 80,
       "name": "OSMANİYE",
       "discritCount": 6,
       "discrits": [
@@ -1398,6 +1478,7 @@
       ]
     },
     {
+      "plateCode": 81,
       "name": "DÜZCE",
       "discritCount": 7,
       "discrits": [
