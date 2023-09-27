@@ -4,7 +4,16 @@ This repository created all city and its districts of Türkiye as JSON format.
 
 All data retrieved from [https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx](https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx) on 26.09.2023
 
-## Installation
+## Features (Extra features added except cities and districts from retrieved data)
+* Cities
+* Total city count
+* Total district count
+* District list of each city
+* District count of each city
+* Plate (Vehicle registration number of each city)
+
+
+## Reaching Data
 
 It published Github Pages like an API
 [https://mertmtn.github.io/CityDistrictJSONAPI/all-city-district.json](https://mertmtn.github.io/CityDistrictJSONAPI/all-city-district.json)
