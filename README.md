@@ -1,6 +1,6 @@
 # CityDistrictJSONAPI
 
-This repository created all city and its districts of Türkiye as JSON format. 
+[This repository](https://github.com/mertmtn/CityDistrictJSONAPI) created all city and its districts of Türkiye as JSON format. 
 
 All data retrieved from [https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx](https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx) on 26.09.2023
 
